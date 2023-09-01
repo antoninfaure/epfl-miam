@@ -27,6 +27,8 @@ The project consists of the following main components:
 
 - **cron.py**: A script that runs daily to scrape the menu for the current date and appends it to the existing CSV file.
 
+- **scrap_all.py**: A script that scrapes menus between two dates and appends them to the existing CSV file.
+
 - **cron_scrap.yaml**: GitHub Actions workflow file that schedules the `cron.py` script to run daily at a specific time.
 
 - **data/menus.csv**: The CSV file where menu data is stored.
