@@ -1,7 +1,7 @@
 # EPFL Restaurant Menu Analysis
 
 ![GitHub](https://img.shields.io/github/license/antoninfaure/epfl-miam)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/antoninfaure/epfl-miam/Menu%20Scraping%20and%20Analysis)
+![GitHub Actions Scraping](https://github.com/antoninfaure/epfl-miam/actions/workflows/cron_scrap.yaml/badge.svg)
 
 This project is a comprehensive solution for scraping, analyzing, and visualizing daily menus from EPFL campus restaurants. It utilizes web scraping techniques to extract menu information, including prices and vegetarian options, and offers tools for conducting exploratory data analysis (EDA). Additionally, it provides network analysis capabilities to uncover insights from meal names. Automation is achieved through GitHub Actions to ensure up-to-date menu data.
 
