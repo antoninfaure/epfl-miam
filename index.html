@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>EPFL Miam</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Antonin Faure">
+
+    <!-- JQuery -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+    <svg id="mynetwork"></svg>
+    <div id="bigramsCard">
+        <h3 class="title">Top Bigrams</h3>
+        <div id="topbigrams">
+        </div>
+</body>
+<script type="module" src="./network/network.js"></script>
+<style>
+    html,
+    body {
+        min-height: 100%;
+        height: 100%;
+        min-width: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+    }
+
+    #mynetwork {
+        position: absolute;
+        top: 0;
+        left: max(20%, 200px);
+        right: 0;
+        bottom: 0;
+        width: min(80%, calc(100% - 200px));
+        height: 100%;
+        background-color: white;
+    }
+
+    #bigramsCard {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: max(20%, 200px);
+
+        background-color: ghostwhite;
+        border-radius: 5px;
+        border: 1px solid lightgray;
+
+        z-index: 100;
+        padding: 0;
+        margin: 0;
+        overflow-y: auto;
+    }
+
+    #topbigrams {
+        padding: 15px;
+    }
+
+    .title {
+        margin: 0;
+        margin-top: 20px;
+        font-size: 1.5em;
+        font-weight: 800;
+        text-align: center;
+    }
+
+    @media screen and (max-width: 800px) {
+        #mynetwork {
+            left: 0;
+            width: 100%;
+            top: max(20%, 100px);
+            height: min(80%, calc(100% - 100px));
+        }
+
+        #bigramsCard {
+            top: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: max(20%, 100px);
+        }
+    }
+</style>
+
+</html>

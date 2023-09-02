@@ -24,6 +24,9 @@ jobs:
           
       - name: execute py script # run main.py
         run: python cron.py
+
+      - name: build network
+        run: python ./network/network.py
           
       - name: commit files
         run: |
