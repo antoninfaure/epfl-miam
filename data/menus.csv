@@ -21569,3 +21569,72 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2023-10-16,Pizza margherita végétarien,Satellite,4.5,4.5,4.5,4.5,True
 2023-10-16,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
 2023-10-16,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, cannelé à la vanille, caracs, cookies.",Satellite,,,,,True
+2023-10-17,Légumes rôtis aux épices Kebab\nCourge Bio et choux fleur\nJus végétal aux agrumes \nBlé tendre  vegan,Alpine,8.6,9.9,11.0,12.4,True
+2023-10-17,"Médaillons aux épinards et mozzarella,\nCrémeux de courge,\nRiz mi-sauvage aux petits légumes",Alpine,11.5,12.0,12.5,13.5,False
+2023-10-17,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2023-10-17,Supplément menu\nSalade du jourFruits du jour,Alpine,1.0,1.0,1.0,1.0,False
+2023-10-17,"Vacherin Mont-d'Or AOP,\nDemi meule gratiné 220 gr sur pommes grenailles,  \nCornichons et petit oignons au vinaigre\nBol de salade  Provenance: Suisse AOP",Alpine,14.5,15.0,15.5,16.5,False
+2023-10-17,"Gratin de macaroni, \naux légumes de saison\n\n",Arcadie,7.0,8.0,8.8,10.0,False
+2023-10-17,Fusilli alla \nPuttanesca végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2023-10-17,Pizza \naux légumes grillées végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2023-10-17,"Crostini, caponata, pesto\nde légumes, œuf poché et grana",Arcadie,10.5,11.5,13.0,14.0,False
+2023-10-17,Risotto de céréales à la primavera\nLégumes verts à la vapeur\nCopeaux de Grana\nChlorophylle Maison,Esplanade,8.6,9.9,11.0,12.4,False
+2023-10-17,Piccata de tofu\nCoulis de tomates\nPolenta gratinée\nPoëlée de légumes au basilic,Esplanade,8.1,8.8,9.9,11.3,False
+2023-10-17,Emincé plantbased à la Zurichoise\nSauce aux champignons\nGalette de rösti \nDuo de haricots Suisses à la vapeur  vegan,Esplanade,13.5,14.0,14.5,15.5,True
+2023-10-17,SW Bagnat thon,Fleur de Pains - Food Truck,,,,,False
+2023-10-17,SW Classique houmous aubergines,Fleur de Pains - Food Truck,,,,,False
+2023-10-17,Demi baguette jambon gruyère,Fleur de Pains - Food Truck,,,,,False
+2023-10-17,SW inspiration asieSW inspiration asie,Fleur de Pains - Food Truck,,,,,False
+2023-10-17,"Notre gamme de salades végétariennes:\n(Falafel, Italienne, No chicken...) végétarien",Giacometti,,,,9.0,True
+2023-10-17,"Notre gamme de sandwichs végé:\nAssortiment varié (Falafel, tomate mozza...) végétarien",Giacometti,,,,8.0,True
+2023-10-17,"Bao buns farcis aux légumes,\nSauce soja, hoisin et huître,\nChou et carottes au sésame au curcuma",Ginko,8.1,8.8,9.9,11.3,False
+2023-10-17,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2023-10-17,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2023-10-17,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2023-10-17,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2023-10-17,Pappa al pomodoro et mozzarella,La Ruche,8.6,9.8,11.0,14.0,False
+2023-10-17,Fusilli au pesto de tomates séchée et ricotta,La Ruche,8.1,9.4,11.0,13.0,False
+2023-10-17,"Boulettes no meat, sauce aux légumes et boulgour aux herbes ",La Ruche,11.9,13.0,14.0,15.0,False
+2023-10-17,"Risotto Primavera, parmesan, épinard, petits pois, échalotes, vin blanc suisse, pesto d’herbes fraîches\nQuenelle de mascarpone-ricotta à la tomate séchéeProvenance: Suisse végétarien",Le Klee by Novae,8.0,9.0,10.0,11.0,True
+2023-10-17,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2023-10-17,Nouilles jaunes sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2023-10-17,Légumes au curry vert et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-10-17,Nouilles jaunes sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,,,,8.5,False
+2023-10-17,"Gratin à la courge, curry rouge, lait de coco, oeuf parfait, frites de patate douce végétarienGratin à la courge, curry rouge, lait de coco, oeuf parfait, frites de patate douce végétarienGratin à la courge, curry rouge, lait de coco, oeuf parfait, frites de patate douce végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2023-10-17,"Pizza Napolitaine, tomate, olive, mozzarella végétarien",Microcity,,,,8.1,True
+2023-10-17,"Tortellini aux bolets, carottes, panais végétarienTortellini aux bolets, carottes, panais végétarien",Microcity,10.5,11.5,13.0,14.0,True
+2023-10-17,"Tortellini aux bolets, carottes, panais végétarien",Microcity,10.5,11.5,13.0,14.0,True
+2023-10-17,"Salade de duo de chou-fleur, oeuf dur, pommes de terre et crudités végétarien",Microcity,,,,10.0,True
+2023-10-17,Bowl d'automne,Montreux Jazz Café,,,,21.0,False
+2023-10-17,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2023-10-17,"Piccata de tofu aux herbes\nBlé aux champignons, cotes de blettes rôties et crémeux de courge au cumin\nVégan végétarien",Native-Restauration végétale,11.3,12.1,12.6,14.1,True
+2023-10-17,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2023-10-17,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2023-10-17,"Notre gamme de sandwichs végé:\nAssortiment varié (Falafel, tomate mozza...) végétarien",Niki ,,,,8.0,True
+2023-10-17,"Notre gamme de salades végétarienne:\n(Falafel, Quinoa, Italienne, Avocado...) végétarien",Niki ,,,,9.0,True
+2023-10-17,"Fais ta galette:\n(Mozzarella, légumes grillés, galette végétarienne et roquettes) végétarien",Niki ,,,,9.5,True
+2023-10-17,"la courge en 2 façons, œuf parfait\ncoulis de courge, salade de butternut rôtie \nau cajun et cacahuètes",Ornithorynque,8.5,9.5,9.9,10.5,False
+2023-10-17,Assortiments de salade végétarienne \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2023-10-17,Assortiments de salade \navec protéine animale au poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2023-10-17,Curry de légumes Indien et pomme de terre\nsamossa de légumes et coriandre,Ornithorynque,10.5,11.5,13.0,14.0,False
+2023-10-17,"Risotto de butternut,\nhuile de noisette, \net graines de lin végétarien",Ornithorynque,7.0,8.0,8.8,10.0,True
+2023-10-17,"Rouleaux de printemps aux légumes, \nnouilles udon, légumes croquants\nsauce sweet chili végétarien",Ornithorynque,9.5,10.5,11.0,12.0,True
+2023-10-17,soupe \nde courge butternut,Ornithorynque,,,,,False
+2023-10-17,"Risotto au safran, courge rôties, grana padano et chips de roquette végétarien",PUUR,15.9,15.9,15.9,15.9,True
+2023-10-17,"Gratin crémeux végétarien, corne et légumes  végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2023-10-17,"Pâtes fraiche ""Maison "", crème de chou fleur au curry doux, et épinards frais végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2023-10-17,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-10-17,"Buffet chaud végé du moment:\nAssortiment de quiches, ravioles, gratin... végétarien",Piano ,2.9,2.9,2.9,2.9,True
+2023-10-17,"Pizza Napoli\nTomate, huile d'ail et basilic végétarien",Piano ,,,,10.0,True
+2023-10-17,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2023-10-17,"Buffet froid végé du moment:\nAssortiment de crudités, cuidités, féculent, protéines... végétarien",Piano ,2.9,2.9,2.9,2.9,True
+2023-10-17,Salade verte Fruits frais au choix,Piano ,9.7,12.1,13.2,15.2,False
+2023-10-17,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2023-10-17,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2023-10-17,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2023-10-17,Pizza chèvre miel végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2023-10-17,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2023-10-17,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, cannelé à la vanille, caracs, cookies.",Satellite,,,,,True
+2023-10-17,"Notre gamme de sandwichs végé:\nAssortiment varié (Falafel, tomate mozza...) végétarien",Zaha,,,,8.0,True
+2023-10-17,"Notre gamme de salades végétarienne:\n(Falafel, Quinoa, Italienne, Avocado...) végétarien",Zaha,,,,10.0,True
+2023-10-17,"Notre gamme de panini végé:\nAssortiment varié (fromages, Italien...)Provenance: CH végétarien",Zaha,,,,8.0,True
