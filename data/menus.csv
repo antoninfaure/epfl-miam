@@ -22928,3 +22928,87 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2023-11-08,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Zaha,,,,8.0,False
 2023-11-08,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Zaha,,,,10.0,False
 2023-11-08,"Notre gamme de panini:\nAssortiment varié (fromages, Italien...)Provenance: CH",Zaha,,,,8.0,False
+2023-11-09,"Rösti farcis au fromage frais, \népeautre et légumes croquant\nLégumes de saison \nSauce Napoli",Alpine,8.6,9.9,11.0,12.4,False
+2023-11-09,"""Asari Ramen"" \nPoitrine de porc, champignons, épinards, œuf mariné et oignons frits Provenance: Suisse",Alpine,13.5,14.0,14.5,15.5,False
+2023-11-09,"Curry de légumes, patate douce et tofu Bio Suisse\nRiz basmati ",Alpine,8.1,8.8,9.9,11.3,False
+2023-11-09,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2023-11-09,Supplément menu\nSalade du jourFruits du jour,Alpine,1.0,1.0,1.0,1.0,False
+2023-11-09,Frittata de légumes de saison\n coulis de tomate végétarien,Arcadie,7.0,8.0,8.8,10.0,True
+2023-11-09,"Cannelloni ricotta et épinards gratinés au four, \nBol de salade verte végétarien",Arcadie,9.5,10.5,11.0,12.0,True
+2023-11-09,Pizza \naux légumes grillées végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2023-11-09,Escaloppe de dinde\n à la Pizzaïola\nrisotto verde,Arcadie,12.5,13.5,14.5,15.5,False
+2023-11-09,Pâte du jour,Epicure,7.0,8.0,8.8,10.0,False
+2023-11-09,Assortiments de sandwichs,Epicure,,,,,False
+2023-11-09,Assortiment de bowls,Epicure,,,,,False
+2023-11-09,Assortiments\nde pièces sucrées,Epicure,,,,,False
+2023-11-09,"Kotteri Ramen \nViande hachée de Porc Suisse maïs, oignons nouveaux et œuf\nmarinéProvenance: Suisse",Esplanade,8.6,9.9,11.0,12.4,False
+2023-11-09,Tajine aux légumes \nPruneaux et amandes\nCouscous aux épices,Esplanade,6.1,6.8,7.9,9.3,False
+2023-11-09,\nNuggets de Poulet Suisse panés\nSauce Mayonnaise à l'estragon\nPurée de courges et Pommes de terreProvenance: suisse,Esplanade,14.5,15.0,15.5,16.5,False
+2023-11-09,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Giacometti,,,,9.0,False
+2023-11-09,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Giacometti,,,,8.0,False
+2023-11-09,Curry Massaman au poulet \nRiz parfumé aux légumes croquants\nProvenance: Suisse,Ginko,10.5,11.0,11.5,12.5,False
+2023-11-09,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2023-11-09,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2023-11-09,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2023-11-09,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2023-11-09,"Rösti, courge, champignons, fromage à raclette et salade",La Ruche,8.6,9.8,11.0,14.0,False
+2023-11-09,Gnocchi alla sorentina végétarien,La Ruche,8.1,9.4,11.0,13.0,True
+2023-11-09,"Sauté de bœuf façon provençale, pommes de terre écrasées et petits poisProvenance: Suisse",La Ruche,11.9,13.0,14.0,15.0,False
+2023-11-09,"Tortellini Verde au basilic , crème de Ricotta à la tomate séchée , émincé de viande de coppa , cerneaux de noix , copeaux et chips de Grana Padano , tomates cerise rôti Provenance: Suisse",La Table de Vallotton by Novae,14.0,17.0,17.0,17.0,False
+2023-11-09,"Tortellini Verde au basilic , crème de Ricotta à la tomate séchée , cerneaux de noix , copeaux et chips de Grana Padano , tomates cerise rôti Provenance: Suisse végétarien",La Table de Vallotton by Novae,13.0,16.0,16.0,16.0,True
+2023-11-09,"Comme une blanquette à l’ancienne, poireau et carotte glacée , champignon , riz basmatie bio , Oeuf parfait Provenance: Suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-09,"Bavette de boeuf sauce Bang-Bang , mille feuille de pomme de terre au thym , carotte glacéeProvenance: Suisse",La Table de Vallotton by Novae,19.0,22.0,22.0,22.0,False
+2023-11-09,"Araignée de veau sauce Chimichurri, mille feuille de pomme de terre au thym , carotte glacée Provenance: Suisse",La Table de Vallotton by Novae,22.0,25.0,25.0,25.0,False
+2023-11-09,"Risotto aux champignons sauvages, crème de courge rôti , chips et copeaux de parmesan Provenance: Suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-09,"Araignée de veau sauce Chimichurri, mille feuille de pomme de terre au thym , carotte glacée Provenance: Suisse",La Table de Vallotton by Novae,19.0,22.0,22.0,22.0,False
+2023-11-09,"Curry vert Thaï de légumes croquants, tofu soyeux, nouilles chinoise Provenance: suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-09,"Couscous Poulet et Merguez , légumes aux épices oriental , pois chiche , confit oignon-raisin-cannelle  Provenance: suisse",Le Klee by Novae,8.0,9.0,10.0,11.0,False
+2023-11-09,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2023-11-09,"Chawarma boeuf Sandwich, Emincé de viande marinée rôtie à la broche, persil, cornichons, tomate et sauce tarator",Li Beirut - Food Truck,,,,9.0,False
+2023-11-09,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2023-11-09,Emincé de porc à la sauce aigre-douce,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-09,Légumes au curry rouge et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-09,Pad See Ew au poulet et légumes,Manira Wokshop - Food Truck Village,,,,8.5,False
+2023-11-09,"Travers de porc au miel et 4 épices, pommes de terre, romanesco",Microcity,10.5,12.0,13.0,14.0,False
+2023-11-09,"Poivrons farcis aux lentilles vertes, carottes, huile de sésame, quinoa, sauce tomate végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2023-11-09,"Riz biryani au curry, oeufs, légumes végétarien",Microcity,,,,8.1,True
+2023-11-09,"Salade de pommes de terre, Gruyère, oeuf, crudités, noix, croûtons végétarien",Microcity,,,,10.0,True
+2023-11-09,Bowl d'automne,Montreux Jazz Café,,,,21.0,False
+2023-11-09,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2023-11-09,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2023-11-09,"Cordon Bleu maison, champignons aux épinards et rostï",Montreux Jazz Café,,,,,False
+2023-11-09,"Boulette By Native, lentilles beluga et riz, sommités de choux fleur safrané et crémeux de patate douce au curry madras\nVégan",Native-Restauration végétale,10.3,11.1,11.6,13.1,False
+2023-11-09,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2023-11-09,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2023-11-09,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Niki ,,,,8.0,False
+2023-11-09,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Niki ,,,,9.0,False
+2023-11-09,Lamelle de calamars sauvages\nsautées ail et persil\nRiz et petits légumesProvenance: Espagne,Ornithorynque,12.5,13.5,14.5,15.5,False
+2023-11-09,Riz Cantonais Végé\npetits pois et omelette végétarien,Ornithorynque,8.1,8.8,9.9,11.3,True
+2023-11-09,"Croque végétarien, \nau Gruyère et légumes \nsalade mélée végétarien",Ornithorynque,8.5,9.5,9.9,10.5,True
+2023-11-09,"L'Orni Kebab pain pita, \némincé de poulet à la libanaise, \nsalade tomate oignons Provenance: Suisse",Ornithorynque,9.5,10.5,11.0,12.0,False
+2023-11-09,Assortiments de salade végétarienne \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2023-11-09,"Civet de sanglier au vin rouge, Spätzli , chou de Bruxelles, et oignons grelotsProvenance: EU",PUUR,,,,15.9,False
+2023-11-09,"Mexican Burger (guacamole, chorizo, cheddar rouge), frites et salade Provenance: CH",PUUR,,,,15.9,False
+2023-11-09,"Pâtes fraiche ""Maison"" straciatella di buffala, tomates séchées, rucola et pistachio végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2023-11-09,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-09,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-09,"Rumsteak de bœuf sauce vin rouge, frites et saladeProvenance: CH",PUUR,,,,16.9,False
+2023-11-09,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2023-11-09,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2023-11-09,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2023-11-09,"Pizza Napoli\nTomate, huile d'ail et basilic végétarien",Piano ,,,,10.0,True
+2023-11-09,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2023-11-09,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2023-11-09,Salade verte Fruits frais au choixIndonesian chicken meat ball soup,Piano ,9.7,12.1,13.2,15.2,False
+2023-11-09,Salade verte ,Piano ,9.7,12.1,13.2,15.2,False
+2023-11-09,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2023-11-09,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2023-11-09,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2023-11-09,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2023-11-09,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2023-11-09,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2023-11-09,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2023-11-09,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2023-11-09,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Zaha,,,,8.0,False
+2023-11-09,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Zaha,,,,10.0,False
+2023-11-09,"Notre gamme de panini:\nAssortiment varié (fromages, Italien...)Provenance: CH",Zaha,,,,8.0,False
