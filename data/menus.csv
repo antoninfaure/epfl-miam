@@ -23089,3 +23089,50 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2023-11-10,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Zaha,,,,8.0,False
 2023-11-10,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Zaha,,,,10.0,False
 2023-11-10,"Notre gamme de panini:\nAssortiment varié (fromages, Italien...)Provenance: CH",Zaha,,,,8.0,False
+2023-11-13," ""Pita Chicken Kebab"" \nPoulet, salade,oignons rouges pickles, \nSauce blanche à l'ail doux,\nBoulgour persilléProvenance: Suisse",Alpine,13.5,14.0,14.5,15.5,False
+2023-11-13,"Tortellini tricolores au basilic,\nSauce crème fraîche et lardons\nFromage râpé",Alpine,8.6,9.9,11.0,12.4,False
+2023-11-13,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2023-11-13,Supplément menu\nSalade du jourFruits du jour,Alpine,1.0,1.0,1.0,1.0,False
+2023-11-13,"""Tom Kha Gai""\nSoupe au poulet au lait de coco, aubergines, poivrons et herbes fraîchesProvenance: Suisse",Alpine,7.1,7.8,8.9,10.3,False
+2023-11-13,Spaghetti à la bolognaise\n de bœufProvenance: Suisse,Arcadie,9.5,10.5,11.0,12.0,False
+2023-11-13,"Risotto, courge,\nchampignons et grana végétarien",Arcadie,8.1,8.8,9.9,11.3,True
+2023-11-13,Pizza aux légumes et mozzarella\nou \njambon cru végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2023-11-13,Brochette de poulet au paprika\nlégumes grillé et galette de roesti,Arcadie,12.5,13.5,14.5,15.5,False
+2023-11-13,Cannelloni farcis à la viande hachée de bœuf Suisse\nSauce napolitaine\nSalade du jourProvenance: Suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2023-11-13,Cannelloni farcis à la viande hachée de bœuf Suisse\nSauce napolitaine\nSalade du jourProvenance: Suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2023-11-13,Zurichoise végétarienne\nRiz créole\nCarottes vichy vegan,Esplanade,7.1,7.8,8.9,10.3,True
+2023-11-13,Cordon bleu de porc Suisse\nGratin dauphinois\nHaricots à la vapeurProvenance: Suisse,Esplanade,14.5,15.0,15.5,16.5,False
+2023-11-13,"Filet de poulet mariné\nSauce huître et Hoisin, \nNouilles aux légumes croquantsProvenance: Suisse",Ginko,11.5,12.0,12.5,13.5,False
+2023-11-13,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2023-11-13,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2023-11-13,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2023-11-13,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2023-11-13,Kroepoek\nBol de Chips de crevettes  Provenance: Vietnam,Ginko,,,,1.5,False
+2023-11-13,"Comme une blanquette à l’ancienne, poireau et carotte glacée , champignon , riz basmatie bio , Oeuf parfait Provenance: Suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-13,"Curry vert Thaï de légumes croquants, tofu soyeux, nouilles chinoise Provenance: suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-13,"Sandwich Falafel, croquants composés d'un mélange de fèves, pois chiches, épices cornichons et sauce taratora végétarien",Li Beirut - Food Truck,,,,7.5,True
+2023-11-13,"Sandwich Chiche Taouk, \nPoulet au citron, sept épices libanaises et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2023-11-13,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2023-11-13,Emincé de porc sauté aux noix de cajou,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-13,Tofu sauté au basilic thaï,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-13,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,,,,8.5,False
+2023-11-13,"Empanadas au boeuf, chili aux haricots rouges, maïs, poivrons, riz",Microcity,10.5,12.0,13.0,14.0,False
+2023-11-13,"Gyoza végétarien, bouillon au soja, nouilles, légumes croquants, oeuf dur végétarienGyoza végétarien, bouillon au soja, nouilles, légumes croquants, oeuf dur végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2023-11-13,"Omelette roulé aux pommes de terre, champignons, fromage végétarienOmelette roulé aux pommes de terre, champignons, fromage végétarien",Microcity,,,,8.1,True
+2023-11-13,"Salade orientale, pois chiche, poivrons confits, taboulé, crudités, feta, brick aux épinards, oeuf végétarien",Microcity,,,,10.0,True
+2023-11-13,Bowl d'automne,Montreux Jazz Café,,,,21.0,False
+2023-11-13,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2023-11-13,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2023-11-13,"Cordon Bleu maison, champignons aux épinards et rostï",Montreux Jazz Café,,,,,False
+2023-11-13,"Burger by Native, compotée d'oignons rouges et frites à l'origan\nVégan\n vegan",Native-Restauration végétale,11.3,12.1,12.6,14.1,True
+2023-11-13,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2023-11-13,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2023-11-13,Poulet croustillants\nSalade asiatique\nSauce sweet chiliProvenance: Suisse végétarien,Ornithorynque,12.5,13.5,14.5,15.5,True
+2023-11-13,Pizza de roesti aux légumes grillés\net mozzarella,Ornithorynque,8.5,9.5,9.9,10.5,True
+2023-11-13,"Chili con carne\nmaïs, poivrons, haricots\net riz Americain Provenance: Suisse",Ornithorynque,9.5,10.5,11.0,12.0,False
+2023-11-13,Assortiments de salade végétarienne \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2023-11-13,Farfalle \nall'arrabbiata végétarien,Ornithorynque,7.0,8.0,8.8,10.0,True
+2023-11-13,"Emincé de porc au caramel, riz au sésame et mélange de légumes asiatiquesProvenance: CH",PUUR,15.9,15.9,15.9,15.9,False
+2023-11-13,"Nouille soba, minute de boeuf, bouillon parfumé et julienne de légumes végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2023-11-13,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-13,"Steak de boeuf au curry jaune, beurre parfumé, duo de frite frites et saladeProvenance: CH",PUUR,16.9,16.9,16.9,16.9,False
