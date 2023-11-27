@@ -23911,3 +23911,57 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2023-11-24,Notre gamme de sandwichs maison:\nCoslaw Bacon\nThon crudités mayonnaise\nRosbif aux herbes cruditésProvenance: CH,Zaha,,,,8.5,False
 2023-11-24,Notre gamme de sandwichs maison végétarien: \nAvocat pesto oeufs dur végétarien,Zaha,,,,,True
 2023-11-25,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2023-11-27,Riz Aztèques aux légumes et Falafels\nRaïta concombre et menthe,Alpine,7.1,7.8,8.9,10.3,False
+2023-11-27,Cou de porc fumé\nSauce moutarde \nChou rouge braisé\nPomme vapeurProvenance: Viande Suisse Garantie,Alpine,8.6,9.9,11.0,12.4,False
+2023-11-27,Pita kebab\nPlanted Pulled BBQ\nSalade de cruditées croquantes \nSauce blanche à l'ail\nFrites\nVéganProvenance: Planted Suisse,Alpine,13.5,14.0,14.5,15.5,False
+2023-11-27,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2023-11-27,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2023-11-27,"Pâte fraiches Fontanetto,\ntortellini bolo, sauce tomate aux légumesProvenance: Italie",Arcadie,9.5,10.5,11.0,12.0,False
+2023-11-27,Penne à la Norma\nsauce tomate au basilic et aubergines,Arcadie,8.1,8.8,9.9,11.3,False
+2023-11-27,"Pizza aux légumes, mozzarella\net pesto de roquette végétarien",Arcadie,9.5,10.5,11.0,12.0,True
+2023-11-27,"Emincé de dinde à l'Italienne \nau citron confit et amandes,\n tagliatelle et courgeProvenance: Suisse",Arcadie,12.5,13.5,14.5,15.5,False
+2023-11-27,Boulettes de boeuf suisse au curry vert\nRiz parumé aux légumesProvenance: Suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2023-11-27,Penne all' arrabiatta\nSauce tomate relevée\nFromage râpé,Esplanade,7.1,7.8,8.9,10.3,False
+2023-11-27,Rôtisserie\nRôti de porc aux pruneaux\nJus corsé au romarin\nPurée de courges et pomme de terre \nHaricots verts à la vapeur Provenance: Suisse,Esplanade,12.5,13.0,13.5,14.5,False
+2023-11-27,SW Classique viande séchée,Fleur de Pains - Food Truck,,,,10.5,False
+2023-11-27,SW Bagnat saumon,Fleur de Pains - Food Truck,,,,15.9,False
+2023-11-27,SW multicéréales chèvre crudités,Fleur de Pains - Food Truck,,,,13.7,False
+2023-11-27,SW Bagnat saumon,Fleur de Pains - Food Truck,,,,18.9,False
+2023-11-27,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2023-11-27,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2023-11-27,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2023-11-27,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2023-11-27,Kroepoek\nBol de Chips de crevettes  Provenance: Vietnam,Ginko,,,,1.5,False
+2023-11-27,"Tortellini Verde au basilic , crème de Ricotta à la tomate séchée , émincé de viande de coppa , cerneaux de noix , copeaux et chips de Grana Padano , tomates cerise rôti Provenance: Suisse",La Table de Vallotton by Novae,14.0,17.0,17.0,17.0,False
+2023-11-27,"Tortellini Verde au basilic , crème de Ricotta à la tomate séchée , cerneaux de noix , copeaux et chips de Grana Padano , tomates cerise rôti Provenance: Suisse végétarien",La Table de Vallotton by Novae,13.0,16.0,16.0,16.0,True
+2023-11-27,"Comme une blanquette à l’ancienne, poireau et carotte glacée , champignon , riz basmatie bio , Oeuf parfait Provenance: Suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-27,"Bavette de boeuf sauce Bang-Bang , mille feuille de pomme de terre au thym , carotte glacéeProvenance: Suisse",La Table de Vallotton by Novae,19.0,22.0,22.0,22.0,False
+2023-11-27,"Bouillabaisse de poissons frais du lac ( Suisse) , pomme de terre tournée, croustilles de pain céréales et sa rouille Provenance: Suisse",La Table de Vallotton by Novae,22.0,25.0,25.0,25.0,False
+2023-11-27,"Dahl de lentilles corail au lait de coco, choux fleur , edamame , choux kale seché , pain naanProvenance: Suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-27,"Araignée de veau sauce Chimichurri, mille feuille de pomme de terre au thym , carotte glacée Provenance: Suisse",La Table de Vallotton by Novae,19.0,22.0,22.0,22.0,False
+2023-11-27,"Curry vert Thaï de légumes croquants, tofu soyeux, nouilles chinoise Provenance: suisse végétarien",La Table de Vallotton by Novae,17.0,20.0,20.0,20.0,True
+2023-11-27,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2023-11-27,"Sandwich Chiche Taouk, \nPoulet au citron, sept épices libanaises et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2023-11-27,Emincé de poulet au curry jaune,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2023-11-27,Emincé de porc à la sauce piquante,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-27,Légumes au curry rouge,Manira Wokshop - Food Truck Village,,,,14.0,False
+2023-11-27,Emincé de poulet au curry jaune,Manira Wokshop - Food Truck Village,,,,8.5,False
+2023-11-27,"Dürum au poulet épicé, salade coleslaw, tomate, oignons, sauce raita, frites",Microcity,10.5,12.0,13.0,14.0,False
+2023-11-27,"Risotto aux champignons, carottes, crème de parmesan végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2023-11-27,"Penne Napolitaine, tomate, courgettes, parmesan végétarien",Microcity,,,,8.1,True
+2023-11-27,"Penne Napolitaine, tomate, courgettes, parmesan végétarienPenne Napolitaine, tomate, courgettes, parmesan végétarienPenne Napolitaine, tomate, courgettes, parmesan végétarien",Microcity,,,,8.1,True
+2023-11-27,"Salade de betteraves, pommes de terre, oeuf, tomates, feta, crème de balsamique, crudités végétarien",Microcity,,,,10.0,True
+2023-11-27,Bowl d'automne,Montreux Jazz Café,,,,21.0,False
+2023-11-27,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2023-11-27,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2023-11-27,"Cordon Bleu maison, champignons aux épinards et rostï",Montreux Jazz Café,,,,25.0,False
+2023-11-27,Burger By Native \nPotatoes aux épices et origan\nVégan\n vegan,Native-Restauration végétale,11.3,12.1,12.6,14.1,True
+2023-11-27,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2023-11-27,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2023-11-27,"Cordon bleu de volaille, sauce moutarde, ratatouille et pomme wedgesProvenance: CH",PUUR,15.9,15.9,15.9,15.9,False
+2023-11-27,"Emincé de bœuf Stroganoff, boulgour et chou braiséProvenance: CH",PUUR,14.9,14.9,14.9,14.9,False
+2023-11-27,"Raviolini ricota épinard, sauce tomate et poivron, grana padano végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2023-11-27,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-27,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-27,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2023-11-27,"Entrecôte Parisienne, beurre à l'ail et aux herbes, pommes wedges et saladeProvenance: CH",PUUR,,,,19.9,False
