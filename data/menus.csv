@@ -26471,3 +26471,65 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-01-21,Pizza chèvre miel végétarien,Satellite,4.5,4.5,4.5,4.5,True
 2024-01-21,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
 2024-01-21,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
+2024-01-22,Tortellini farci au fromage\nPesto alla Genovese,Alpine,8.6,9.9,11.0,12.4,False
+2024-01-22,Poulet Basquaise\nRiz aux herbes méditerranéennesProvenance: Suisse,Alpine,11.5,12.0,12.5,13.5,False
+2024-01-22,Steak haché de veau suisse \nSauce Poivrade\nPommes nouvelles rissolées\nHaricots vertsProvenance: Suisse,Alpine,13.5,14.0,14.5,15.5,False
+2024-01-22,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-01-22,"Dessert à la carte\n""Fait Maison"" Supplément menu\nSalade du jour",Alpine,1.0,1.0,1.0,1.0,False
+2024-01-22,Lasagne gratinée\nà la bolognaise de bœufProvenance: Suisse,Arcadie,8.1,8.8,9.9,11.3,False
+2024-01-22,Les pâtes fraiches Fontaneto\nraviolo ricotta basilic\nsauce Napolitaine,Arcadie,9.5,10.5,11.0,12.0,False
+2024-01-22,Pizza aux légumes et mozzarella\nou salami végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2024-01-22,pizza rouge qui piqueProvenance: Suisse végétarien,Cut Pizza - Food Truck Village,7.5,,,9.0,True
+2024-01-22,Pizza Margerita,Cut Pizza - Food Truck Village,7.5,,,9.0,False
+2024-01-22,Pizza au jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-01-22,Pizza fourée mozzarella et jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-01-22,Margherita Olives ,Cut Pizza - Food Truck Village,,,,,False
+2024-01-22,Pizza Raclette,Cut Pizza - Food Truck Village,9.0,,,11.0,False
+2024-01-22,Pizza Sauce tomate & Burrata,Cut Pizza - Food Truck Village,,,,,False
+2024-01-22,Pizza patate et lard,Cut Pizza - Food Truck Village,,,,,False
+2024-01-22,Cannelloni farcis à la viande hachée de bœuf Suisse\nSauce napolitaine\nSalade du jourProvenance: Suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2024-01-22,Chou fleur rôti entier\nSauce au miso et jus de pommes\nEblyProvenance: Suisse,Esplanade,7.1,7.8,8.9,10.3,False
+2024-01-22,Poulet au curry Massaman\nRiz Thaï aux légumesProvenance: Suisse,Esplanade,13.5,14.0,14.5,15.5,False
+2024-01-22,SW Classique viande séchée,Fleur de Pains - Food Truck,,,,10.5,False
+2024-01-22,Salade mélée,Fleur de Pains - Food Truck,,,,15.9,False
+2024-01-22,SW multicéréales chèvre crudités,Fleur de Pains - Food Truck,,,,13.7,False
+2024-01-22,Pates au saumon,Fleur de Pains - Food Truck,,,,18.9,False
+2024-01-22,Curry Jaune au lait de coco Légumes et poulet\nRiz parfumé Provenance: Suisse,Ginko,8.1,8.8,9.9,11.3,False
+2024-01-22,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2024-01-22,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2024-01-22,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2024-01-22,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2024-01-22,Kroepoek\nBol de Chips de crevettes  Provenance: Vietnam,Ginko,,,,1.5,False
+2024-01-22,"Brochette de Bœuf Tel Aviv, sauce Zough, \nServie avec un taboulé libanais, aubergines grillées et pain pitta Provenance: Suisse",Le Klee by Novae,8.0,9.0,10.0,11.0,False
+2024-01-22,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-01-22,"Sandwich Kafta, viande hachée grillé avec persil, cornichon",Li Beirut - Food Truck,,,,9.0,False
+2024-01-22,Emincé de porc à la sauce aigre-douce,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-01-22,Emincé de poulet au curry vert,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-01-22,Vermicelles sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-01-22,Emincé de porc à la sauce aigre-douce,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-01-22,"Cheeseburger de boeuf au gruyère, crudités, frites",Microcity,10.5,12.0,13.0,14.0,False
+2024-01-22,"Lasagne aux épinards, sauce crème, chèvre, carottes, mozzarella, béchamel végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2024-01-22,"Mac and cheese, cheddar, carottes végétarien",Microcity,,,,8.1,True
+2024-01-22,"Salade de tomate, mozzarella, taboulé, crudités, poivrons végétarien",Microcity,,,,10.0,True
+2024-01-22,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-01-22,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2024-01-22,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-01-22,L'xtra Crispy ,NAS sandwiches,,,,11.0,False
+2024-01-22,Le P'tit gruyère végétarienLe P'tit gruyère végétarien,NAS sandwiches,,,,8.0,True
+2024-01-22,"Saucisses, lentilles et perle de couscous façon Native Végan vegan",Native-Restauration végétale,10.3,11.1,11.6,13.1,True
+2024-01-22,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-01-22,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-01-22,"Couscous royal, pilon de poulet, \nmerguez, boulette agneau, sauce piquanteProvenance: Suisse",Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-01-22,Lasagne de boeuf\nsalade verte,Ornithorynque,8.5,9.5,9.9,10.5,False
+2024-01-22,Farfalle sauce butternut\net mascarponeProvenance: CH,Ornithorynque,7.0,8.0,8.8,10.0,False
+2024-01-22,"Burrito au planted, tex-mex, \ncheddar et pomme de terre au paprika végétarien",Ornithorynque,9.5,10.5,11.0,12.0,True
+2024-01-22,"Ballotine de volaille aux champignons, gratin de pomme de terre et courgettes",PUUR,16.5,16.5,16.5,16.5,False
+2024-01-22,"Emincé de porc au caramel, riz au sésame et mélange de légumes asiatiquesProvenance: CH",PUUR,15.9,15.9,15.9,15.9,False
+2024-01-22,"Raviolini à la ratatouille, sauce tomate et grana padano végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2024-01-22,Buffet du jourBuffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-01-22,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-01-22,"Entrecôte parisienne de bœuf, sauce poivre vert, frites et saladeProvenance: CH",PUUR,16.9,16.9,16.9,16.9,False
+2024-01-22,Pizza margherita végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2024-01-22,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2024-01-22,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-01-22,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
