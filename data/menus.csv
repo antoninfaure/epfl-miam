@@ -27472,3 +27472,65 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-02-07,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
 2024-02-07,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
 2024-02-07,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2024-02-08,Polenta Tessinoise aux épinards\nSauce tomate ,Alpine,7.1,7.8,8.9,10.3,False
+2024-02-08,Parmentier de Pulled Pork et champignons\nGratiné au fromage du paysProvenance: Suisse,Alpine,13.5,14.0,14.5,15.5,False
+2024-02-08,"Schüblig de St. Gall, Sauce moutarde\nFrites et légumes d'hiverProvenance: Suisse",Alpine,8.6,9.9,11.0,12.4,False
+2024-02-08,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-02-08,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-02-08,Polenta Tessinoise aux épinards\nSauce tomate ,Alpine,7.1,7.8,8.9,10.3,False
+2024-02-08,Penne\n all Arrabiata végétarien,Arcadie,8.1,8.8,9.9,11.3,True
+2024-02-08,PIADINA légumes grillées \net  jambon blancProvenance: Suisse végétarien,Arcadie,8.5,9.0,9.5,10.0,True
+2024-02-08,"L'Arcadie Italien Burger\nsteak de bœuf, salade roquette, pesto\ntomates et mozzarella, pommes wedgesProvenance: Bœuf Suisse",Arcadie,12.5,13.5,14.5,15.5,False
+2024-02-08,Assortiments de sandwichs,Epicure,,,,,False
+2024-02-08,"Choucroute Garnie, cou de porc fumé et saucisse de Vienne,\nPommes natures\nMoutarde Provenance: Viande Suisse Garantie",Esplanade,8.6,9.9,11.0,12.4,False
+2024-02-08,Croûte au Fromage à la Valaisanne \nTomate\nCornichons et oignons \nSalade du jourProvenance: Suisse végétarien,Esplanade,6.1,6.8,7.9,9.3,True
+2024-02-08,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Giacometti,,,,9.0,False
+2024-02-08,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Giacometti,,,,8.0,False
+2024-02-08,"Saucisse de porc grillé, écrasé de pomme de terre et chou braisé Provenance: CH",Hopper,11.0,12.5,12.5,14.0,False
+2024-02-08,"Brochette de dinde grillé, couscous, courges et carottes rôtiesProvenance: CH",Hopper,13.8,14.9,14.9,16.9,False
+2024-02-08,Arancini aux légumes maison et crémeux d'épinards végétarien,Hopper,8.1,9.9,11.0,13.6,True
+2024-02-08,"Tortellini tricolore au fromage, crème de parmesan, pois croquants et tomates cerises",La Ruche,8.65,9.85,11.05,14.05,False
+2024-02-08,"Penne au chorizo, sauce pimentéeProvenance: Suisse",La Ruche,8.15,9.45,11.05,13.05,False
+2024-02-08,"Ailerons de poulet, riz aux légumesProvenance: Suisse",La Ruche,11.95,13.05,14.05,15.05,False
+2024-02-08,"Spaghetti Al carbonara,\n chips de lard et roquetteProvenance: CH",Le Klee by Novae,8.0,9.0,10.0,11.0,False
+2024-02-08,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-02-08,"Chawarma boeuf Sandwich, Emincé de viande marinée rôtie à la broche, persil, cornichons, tomate et sauce tarator",Li Beirut - Food Truck,,,,9.0,False
+2024-02-08,Emincé de poulet au curry vert,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-02-08,Emincé de porc caramelisé aux sésames,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-08,Légumes sautés et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-08,Emincé de poulet au curry vert,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-02-08,"Brochette de boeuf et chipolatas, chou-fleur, frites, sauce chimichurri",Microcity,10.5,12.0,13.0,14.0,False
+2024-02-08,"Piadina à la tomate, mozzarella, oeuf, épinards, olives noires, roquette végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2024-02-08,"Omelette aux champignons, pommes de terre, fromage, salade verte végétarien",Microcity,,,,8.1,True
+2024-02-08,"Salade grecque, tomate, concombre, feta, haricot blanc, olives noires, crudités végétarien",Microcity,,,,10.0,True
+2024-02-08,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-02-08,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2024-02-08,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-02-08,"Tofu fumé Bio suisse à la sauce curry massaman, \nLait de coco et ananas frais. Sommités de brocolis, riz parfumé aux épices des îles. \nVégan ",Native-Restauration végétale,11.3,12.1,12.6,14.1,False
+2024-02-08,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-02-08,"Notre gamme de sandwichs végé:\nAssortiment varié (Falafel, tomate mozza...) végétarien",Niki ,,,,8.0,True
+2024-02-08,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Niki ,,,,9.0,False
+2024-02-08,"Fais ta galette:\n(Jambon cru, mozzarella, légumes grillés et roquettes)Provenance: CH",Niki ,,,,9.5,False
+2024-02-08,Cocotte de pâtes au saumon végétarien,Niki ,7.0,8.8,9.9,11.3,True
+2024-02-08,Haut de cuisse de poulet Tandoori\nchoux blancs aux épices et pommes de terre rôties,Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-02-08,"Omelette aux herbes,\népinards et champignons de Paris\nà la crème",Ornithorynque,8.1,8.8,9.9,11.3,False
+2024-02-08,"L'Orni-bagel, cheddar\niceberg, tomate, steak haché de bœuf,\nfrites de patate douceProvenance: Suisse",Ornithorynque,9.5,10.5,11.0,12.0,False
+2024-02-08,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-02-08,"Cuisse de poulet rôtie, pommes grenailles confites et haricots fins, jusProvenance: CH",PUUR,,,,15.9,False
+2024-02-08,Pasta crema di Gorgonzola et noix torréfiées et spinach végétarien,PUUR,14.0,14.0,14.0,14.0,True
+2024-02-08,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-02-08,"Grillade du jour, pommes frites et saladeProvenance: CH",PUUR,16.9,16.9,16.9,16.9,False
+2024-02-08,Risotto à la crème de courge et Gorgonzola végétarien,Piano ,8.6,9.9,11.0,13.5,True
+2024-02-08,"Gyro pita de poulet, patate douce et saladeProvenance: CH",Piano ,13.8,14.9,14.9,16.9,False
+2024-02-08,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2024-02-08,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-08,Pasta au saumon fuméProvenance: Norvège / MSC,Piano ,7.0,8.8,9.9,11.3,False
+2024-02-08,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-02-08,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-08,Salade verte Fruits frais au choixRisotto à la crème de courge et Gorgonzola végétarien,Piano ,9.7,12.1,13.2,15.2,True
+2024-02-08,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-02-08,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-02-08,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-02-08,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2024-02-08,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2024-02-08,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CHPizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
