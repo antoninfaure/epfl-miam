@@ -27862,3 +27862,68 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-02-16,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
 2024-02-16,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
 2024-02-16,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
+2024-02-19,"Tortilla Ibérique\nOmelette aux pommes de terre, oignons et poivrons\nPetite salade du maraîcher",Alpine,7.1,7.8,8.9,10.3,False
+2024-02-19,Chili sin carne à la mexicaine\nRiz aux haricots rouges et maïs\nnachosProvenance: Protéines de féveroles IP-Suisse,Alpine,8.6,9.9,11.0,12.4,False
+2024-02-19,"Semaine promotion ""Plats Suisse""\nSaucisse à rôtir de porc sauce aux oignons\nCornettes et carottes persillées Provenance: Suisse",Alpine,13.5,14.0,14.5,15.5,False
+2024-02-19,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-02-19,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-02-19,Lasagne gratinée\nà la bolognaise de bœufProvenance: Suisse,Arcadie,8.1,8.8,9.9,11.3,False
+2024-02-19,Pizza aux légumes grillées\net mozzarella  végétarien,Arcadie,,,,10.5,True
+2024-02-19,Les pâtes fraiches Fontaneto\nraviolo ricotta basilic\nsauce Napolitaine,Arcadie,9.5,10.5,11.0,12.0,False
+2024-02-19,Pizza Margerita,Cut Pizza - Food Truck Village,7.5,,,9.0,False
+2024-02-19,Pizza au jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-02-19,Pizza fourée mozzarella et jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-02-19,Pizza Sauce tomate & Burrata,Cut Pizza - Food Truck Village,,,,,False
+2024-02-19,Saucisse de saint gall IP suisseJus brun corsé à la moutarde en graines\nLentilles vertes de la Nonna\nCarottes et petits poisProvenance: suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2024-02-19,"Lebaneese Day\nMézzés libanaises\nFalafels sauce yogourt\nHoumos, boulgour, salade de chou blanc",Esplanade,7.1,7.8,8.9,10.3,False
+2024-02-19,Dinde Fermière Pattes Noires de Gruyère\nJus brun à l'ail doux confits\nPommes grenailles rissolées\nBrocoli au beurre et amandesProvenance: Suisse AOP ,Esplanade,13.5,14.0,14.5,15.5,False
+2024-02-19,Boulettes de bœuf suisse\nSauces curry  vert Thaï\nRiz au légumes croquantsProvenance: IP-Suisse,Ginko,11.5,12.0,12.5,13.5,False
+2024-02-19,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2024-02-19,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2024-02-19,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2024-02-19,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2024-02-19,Kroepoek\nBol de Chips de crevettes  Provenance: Vietnam,Ginko,,,,1.5,False
+2024-02-19,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-02-19,"Sandwich Chiche Taouk, \nPoulet au citron, sept épices libanaises et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2024-02-19,Emincé de poulet au curry rouge,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-02-19,Emincé de porc à la sauce aigre-douce,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-19,Légumes au curry rouge,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-19,Emincé de poulet au curry rouge,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-02-19,"Soupe de ramen au poulet, curry rouge, lait de coco, nouilles, légumes croquants",Microcity,10.5,12.0,13.0,14.0,False
+2024-02-19,"Oeuf cocotte aux épinards, béchamel, pommes de terre sautées végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2024-02-19,"Gnocchis et courgettes rôtis, pesto de roquette végétarien",Microcity,,,,8.1,True
+2024-02-19,"Salade de betterave, quinoa, crudités, falafels, feta, sauce yaourt végétarien",Microcity,,,,10.0,True
+2024-02-19,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-02-19,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2024-02-19,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-02-19,Burger by Native et frites à l'origan \nVegan vegan,Native-Restauration végétale,11.3,12.1,12.6,14.1,True
+2024-02-19,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-02-19,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-02-19,"Poulet sauté à l'Espagnole\npoivrons et tomate, riz longProvenance: Suisse",Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-02-19,"Fusilli à la sauce ""amatriciana"",\nlardons et oignons rougeProvenance: Suisse végétarien",Ornithorynque,8.1,8.8,9.9,11.3,True
+2024-02-19,Curry de légumes Indien à l'œuf\net demi pain naan,Ornithorynque,9.5,10.5,11.0,12.0,False
+2024-02-19,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-02-19,"Papet vaudois, saucisse aux choux, moutarde",PUUR,,,,15.9,False
+2024-02-19,"Gyosa végétarien, sauce sweet, riz parfumé et légumes Thaï végétarien",PUUR,14.0,14.0,14.0,14.0,True
+2024-02-19,"Tortelli au saumon, crème au citron et rucola",PUUR,14.9,14.9,14.9,14.9,False
+2024-02-19,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-02-19,"Rumsteak de bœuf, sauce champignons, frites et saladeProvenance: CH",PUUR,,,,16.9,False
+2024-02-19,Spätzle au lardon et fromage gruyerProvenance: CH,Piano ,8.6,9.9,11.0,13.5,False
+2024-02-19,"Gigot d' agneaux cuit dans son jus, tartiflette reblochon et oignons, chou rouge brasèeProvenance: CH",Piano ,13.8,14.9,14.9,16.9,False
+2024-02-19,"Burger de bœuf, frites et saladeProvenance: CH",Piano ,15.9,15.9,15.9,15.9,False
+2024-02-19,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-02-19,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-19,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-02-19,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-19,Spätzle au lardon et fromage gruyerProvenance: CHSalade verte Fruits frais au choix,Piano ,9.7,12.1,13.2,15.2,False
+2024-02-19,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-02-19,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2024-02-19,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-02-19,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-02-19,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2024-02-19,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2024-02-19,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2024-02-19,Pizza margherita végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2024-02-19,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2024-02-19,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-02-19,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
