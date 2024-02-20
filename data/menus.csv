@@ -27927,3 +27927,63 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-02-19,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
 2024-02-19,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
 2024-02-19,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
+2024-02-20,"Medaglionni farci au carotte et fines herbes\nBouillon au soya, champignons et petits légumes  ",Alpine,8.6,9.9,11.0,12.4,False
+2024-02-20,"Tagine à l'oriental\nCevapcici, Légumes et pois chiches \nJus au Ras el Hanout",Alpine,10.5,11.0,11.5,12.5,False
+2024-02-20,"Semaine promotion ""Plats Suisse""\nRösti Montagnard gratiné au fromage du pays, œuf au plat, légumes et oignons confits, cornichon et petit oignons",Alpine,12.5,13.0,13.5,14.5,False
+2024-02-20,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-02-20,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-02-20,Pizza aux légumes grillées\net mozzarella ou salami végétarien,Arcadie,,,,10.5,True
+2024-02-20,"Farfalle au pesto rosso,\ngrana et roquette végétarien",Arcadie,7.0,8.0,8.8,10.0,True
+2024-02-20,Paccheri crème de grana\net aubergines au pesto de roquette,Arcadie,9.5,10.5,11.0,12.0,False
+2024-02-20,Pizza Margerita,Cut Pizza - Food Truck Village,7.5,,,9.0,False
+2024-02-20,Pizza Sauce tomate & Burrata,Cut Pizza - Food Truck Village,,,,,False
+2024-02-20,Thaï Bolo balls\nBoulette vegan au curry\nWok de légumes suisses\nNouilles finesProvenance: Suisse,Esplanade,8.6,9.9,11.0,12.4,False
+2024-02-20,Pizza Margherita,Esplanade,8.1,8.8,9.9,11.3,False
+2024-02-20,Steak de Quorn \nJus aux herbes\nPetits pois et carottes\nPolenta crémeuseProvenance: Suisse,Esplanade,12.5,13.0,13.5,14.5,False
+2024-02-20,Riz sautés aux légumes croquants et œuf frit à l'Asiatique\nCébette et cacahuètes,Ginko,6.1,6.8,7.9,9.3,False
+2024-02-20,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2024-02-20,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2024-02-20,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2024-02-20,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2024-02-20,Spaghetti au pesto rouge,La Ruche,8.65,9.85,11.05,14.05,False
+2024-02-20,"Tortilla espagnole (pomme de terre, oignon, poivron et tomate)",La Ruche,8.15,9.45,11.05,13.05,False
+2024-02-20,Quinoa et poêlée de légumes asiatiques,La Ruche,11.95,13.05,14.05,15.05,False
+2024-02-20,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-02-20,Nouilles jaunes sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-02-20,Légumes au lait de coco,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-20,Nouilles jaunes sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-02-20,"Croûte aux champignons, riz basmati, brocolis végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2024-02-20,"Tortilla à la courge, fromage, pommes de terre, brocolis végétarien",Microcity,10.5,11.5,13.0,14.0,True
+2024-02-20,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-02-20,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-02-20,"Tofu fumé, lentilles à la moutarde à l'ancienne, céleri branche, carottes aux épices et sauce blanche à la chutney à la mangue \nVégan",Native-Restauration végétale,10.3,11.1,11.6,13.1,False
+2024-02-20,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-02-20,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-02-20,"Notre gamme de sandwichs végé:\nAssortiment varié (Falafel, tomate mozza...) végétarien",Niki ,,,,8.0,True
+2024-02-20,"Notre gamme de salades végétarienne:\n(Falafel, Quinoa, Italienne, Avocado...) végétarien",Niki ,,,,9.0,True
+2024-02-20,"Fais ta galette:\n(Mozzarella, légumes grillés, galette végétarienne et roquettes) végétarien",Niki ,,,,9.5,True
+2024-02-20,Cocotte de pasta Alla Boscaiola végétarien,Niki ,7.0,8.8,9.9,11.3,True
+2024-02-20,Hot-dog Coney Island\nsaucisse végétale\nsalade César,Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-02-20,Couscous de légumes \nsauce piquante aux lentilles végétarien,Ornithorynque,8.1,8.8,9.9,11.3,True
+2024-02-20,Roesti aux légumes de saison\nfromage à raclette\ncondiments et salade de crudités,Ornithorynque,9.5,10.5,11.0,12.0,True
+2024-02-20,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-02-20,Parmentier de légumes gratiné à la patate douce végétarien,PUUR,15.9,15.9,15.9,15.9,True
+2024-02-20,"Risotto aux champignons des bois, grana padano et huile truffée végétarien",PUUR,14.0,14.0,14.0,14.0,True
+2024-02-20,"Pâtes fraiche ""Maison"" crème de chèvre poivré, noisettes raréfiées, roquette et miel\n végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2024-02-20,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-02-20,Gnocchi alla Bava Valdostana végétarien,Piano ,8.6,9.9,11.0,13.5,True
+2024-02-20,crêpes raclettes poireaux et champignons et pomme de terre rôti  ,Piano ,8.6,9.9,11.0,13.5,False
+2024-02-20,"Gaufre végétarienne avec avocado eouf dure, fromage fraîche, tomates servi avec frites",Piano ,11.5,11.5,11.5,11.5,False
+2024-02-20,"Buffet chaud végé du moment:\nAssortiment de quiches, ravioles, gratin... végétarien",Piano ,2.9,2.9,2.9,2.9,True
+2024-02-20,Cocotte de pasta Alla Boscaiola végétarien,Piano ,7.0,8.8,9.9,11.3,True
+2024-02-20,"Pizza Napoli\nTomate, huile d'ail et basilic végétarien",Piano ,,,,10.0,True
+2024-02-20,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-02-20,"Buffet froid végé du moment:\nAssortiment de crudités, cuidités, féculent, protéines... végétarien",Piano ,2.9,2.9,2.9,2.9,True
+2024-02-20,Gnocchi alla Bava Valdostana végétarienSalade verte Fruits frais au choix,Piano ,9.7,12.1,13.2,15.2,True
+2024-02-20,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-02-20,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2024-02-20,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-02-20,Pizza chèvre miel végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2024-02-20,"Sandwichs végétariens\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie.",Satellite,5.0,5.0,5.0,5.0,False
+2024-02-20,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-02-20,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
