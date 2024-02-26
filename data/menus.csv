@@ -28203,3 +28203,65 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-02-23,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
 2024-02-24,Carnivore pasta corner \nSauce au choix\nFromage râpé\nSalade du jourProvenance: Suisse,Esplanade,12.0,12.0,,12.0,False
 2024-02-24,Veggi Pasta corner\nSauce au choix\nFromage râpé\nSalade du jourProvenance: Suisse,Esplanade,12.0,12.0,,12.0,False
+2024-02-26,Tortellini ricotta épinard\nCrème de Pesto verde\nFromage râpé,Alpine,8.6,9.9,11.0,12.4,False
+2024-02-26,Brochette de cuisses de poulet aux épices cajun\nNouilles au beurre\nBâtonnets de légumes de saisonProvenance: Suisse Garantie,Alpine,13.5,14.0,14.5,15.5,False
+2024-02-26,"Schüblig de St. Gall, Sauce moutarde\nPommes rôties et carottes au beurreProvenance: Suisse",Alpine,8.1,8.8,9.9,11.3,False
+2024-02-26,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-02-26,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-02-26,Spaghetti à la carbonara\nou sauce tomateProvenance: Suisse,Arcadie,9.5,10.5,11.0,12.0,False
+2024-02-26,Pizza aux champignons\net jambon blancProvenance: Suisse végétarien,Arcadie,,,,10.5,True
+2024-02-26,Tortelli à la Piemontaise\nsauce tomate et granaProvenance: Italie,Arcadie,7.0,8.0,8.8,10.0,False
+2024-02-26,Pizza \naux champignons\n végétarien,Arcadie,9.5,10.5,11.0,12.0,True
+2024-02-26,"Saltimbocca de porc, jus à la sauge et balsamique \npolenta et brocolisProvenance: Suisse",Arcadie,12.5,13.5,14.5,15.5,False
+2024-02-26,Cannelloni ricotta épinards gratinés au fromage Suisse\nPousses de roquette,Esplanade,8.6,9.9,11.0,12.4,False
+2024-02-26,Blanquette d'émincé planted\nCarottes vichy\nRiz pilaf vegan,Esplanade,7.1,7.8,8.9,10.3,True
+2024-02-26,Rôtisserie\nPoulet au panier\nPomme de terre et légumes cuits dans le jus de cuisson\nAioli maisonProvenance: Poulet Suisse,Esplanade,13.5,14.0,14.5,15.5,False
+2024-02-26,Émincé de porc à la citronnelle\nRiz jasmin\nWok de légumesProvenance: Suisse,Ginko,10.5,11.0,11.5,12.5,False
+2024-02-26,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2024-02-26,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2024-02-26,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2024-02-26,Kroepoek\nBol de Chips de crevettes  Provenance: Vietnam,Ginko,,,,1.5,False
+2024-02-26,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-02-26,"Sandwich Kafta, viande hachée grillé avec persil, cornichon",Li Beirut - Food Truck,,,,9.0,False
+2024-02-26,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-02-26,Porc haché sauté au gingembre,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-26,Pad See Ew aux légumes et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-02-26,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-02-26,"Tartiflette au saucisson, pommes de terre, reblochon, salade verte",Microcity,10.5,12.0,13.0,14.0,False
+2024-02-26,"Dahl de lentilles au curry, lait de coco, feuilleté aux épinards et feta végétarien",Microcity,10.5,12.0,13.0,14.0,True
+2024-02-26,"Penne à la sauce tomate piquante, protéine végétale, courgettes, mozzarella végétarien",Microcity,,,,8.1,True
+2024-02-26,"Salade de tomate, mozzarella, taboulé végétarien",Microcity,,,,10.0,True
+2024-02-26,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-02-26,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2024-02-26,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-02-26,Burger crispy planted \nBy Native\nfrites à l'origan \nVegane vegan,Native-Restauration végétale,11.3,12.1,12.6,14.1,True
+2024-02-26,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-02-26,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-02-26,"Brochette de poulet au saté ,\nquartier de citron vert\nlégumes sautés à la coriandre\nnouille de blé\nProvenance: Suisse",Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-02-26,Gratin de cornettes\naux 4 fromages végétarien,Ornithorynque,8.1,8.8,9.9,11.3,True
+2024-02-26,Tarte aux poireaux et Gruyère\nSalade mêlée,Ornithorynque,9.5,10.5,11.0,12.0,False
+2024-02-26,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-02-26,"Cordon bleu de volaille, sauce moutarde, ratatouille et pomme wedgesProvenance: CH",PUUR,15.9,15.9,15.9,15.9,False
+2024-02-26,Chili con carne  végétarien aux haricots rouges et maïs et rizProvenance: CH,PUUR,14.0,14.0,14.0,14.0,False
+2024-02-26,"Raviolini à la ratatouille, sauce tomate et grana padano végétarien",PUUR,14.9,14.9,14.9,14.9,True
+2024-02-26,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-02-26,"Rumsteak de bœuf, beure aux herbes, frites et saladeProvenance: CH",PUUR,,,,16.9,False
+2024-02-26,"Orechiette alla cima di rapa, poudre d'olive et burata végétarien",Piano ,8.6,9.9,11.0,13.5,True
+2024-02-26,"Boulettes de boeuf à la sauce tomate, blesotto au tomate et parmesan, légumes braisés et mousse de fromage de chèvreProvenance: CH",Piano ,13.8,14.9,14.9,16.9,False
+2024-02-26,"Grillade Blanche:\nPoulet grillè et sauce gremolade, boulgure epicèe et saladeProvenance: CH",Piano ,,,,14.5,False
+2024-02-26,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2024-02-26,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-26,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-02-26,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-02-26,"Orechiette alla cima di rapa, poudre d'olive et burata végétarienSalade verte Fruits frais au choix",Piano ,9.7,12.1,13.2,15.2,True
+2024-02-26,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-02-26,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2024-02-26,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-02-26,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-02-26,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2024-02-26,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2024-02-26,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2024-02-26,Pizza margherita végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2024-02-26,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2024-02-26,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-02-26,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
