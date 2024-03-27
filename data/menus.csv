@@ -29960,3 +29960,87 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-03-26,"Notre gamme de salades végétarienne:\n(Falafel, Quinoa, Italienne, Avocado...) végétarien",Zaha,,,,10.0,True
 2024-03-26,Notre gamme de tacos maison:\ntacos gallet vegetarien\ntacos vegetarienProvenance: CH végétarien,Zaha,,,,8.5,True
 2024-03-26,Notre gamme de sandwichs maison:\nBœuf haché crudités\njambon et gruyère Suisse\nVégé falafel\nPoulet curryProvenance: CH,Zaha,,,,8.5,False
+2024-03-27,Gratin de pommes de terre et côtes de bette Bio de la ferme du Goupil\n,Alpine,8.6,9.9,11.0,12.4,False
+2024-03-27,"Tranche panée de Porc, quartier de citron\nPommes rôties\nCarottes Vapeurs persilléesProvenance: Porc IP-Suisse",Alpine,13.5,14.0,14.5,15.5,False
+2024-03-27,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-03-27,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-03-27,"Risotto verde,\nbrocolis, petits pois et fèves\nhuile de basilic végétarien",Arcadie,8.1,8.8,9.9,11.3,True
+2024-03-27,Plaque de pizza aux légumes grillées\nou \nsalami\n végétarien,Arcadie,,,,10.5,True
+2024-03-27,"Les pâtes fraiches Fontaneto,\ntortellonne aux champignons,\nsauce crème à la sauge\n	\n végétarien",Arcadie,9.5,10.5,11.0,12.0,True
+2024-03-27,"L'Arcadie Italien Burger\nsteak de bœuf, salade roquette, \npesto, tomates et mozzarella, pommes wedgesProvenance: Bœuf Suisse",Arcadie,12.5,13.5,14.5,15.5,False
+2024-03-27,pizza rouge qui piqueProvenance: Suisse végétarien,Cut Pizza - Food Truck Village,7.5,,,9.0,True
+2024-03-27,Pizza Margerita,Cut Pizza - Food Truck Village,7.5,,,9.0,False
+2024-03-27,Pizza fourée mozzarella et jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-03-27,Pizza Sauce tomate & Burrata,Cut Pizza - Food Truck Village,,,,,False
+2024-03-27,pizza Merguez ,Cut Pizza - Food Truck Village,,,,,False
+2024-03-27,Pâtes Matriciana,Cut Pizza - Food Truck Village,,,,,False
+2024-03-27,Tahitian power Poke Bowl\nBœuf Suisse moëlleux \nSauce gingembre et limes\nLégumes au wok\nNouilles sautées\nGraines torréfiées,Esplanade,8.6,9.9,11.0,12.4,False
+2024-03-27,Espla Italian Burger\nBœuf haché Suisse \nPesto de basilic\nTomate et mozzarella\nPommes rôties\nColeslaw et grenailles au fourProvenance: Suisse,Esplanade,13.5,14.0,14.5,15.5,False
+2024-03-27,Chili sin carne à la mexicaine\nRiz aux haricots rouges et maïs\nnachosProvenance: Protéines de féveroles IP-Suisse,Esplanade,8.1,8.8,9.9,11.3,False
+2024-03-27,Demi baguette jambon gruyère,Fleur de Pains - Food Truck,,,,10.5,False
+2024-03-27,Demi baguette jambon gruyère,Fleur de Pains - Food Truck,,,,10.5,False
+2024-03-27,Salade de chèvre,Fleur de Pains - Food Truck,,,,15.9,False
+2024-03-27,SW tomate mozzarella,Fleur de Pains - Food Truck,,,,13.7,False
+2024-03-27,Salade thon oeuf olives,Fleur de Pains - Food Truck,,,,18.9,False
+2024-03-27,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Giacometti,,,,9.0,False
+2024-03-27,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Giacometti,,,,8.0,False
+2024-03-27,Brochette de Pangasius ASC à la Thaï\nRiz au légumesProvenance: VN/ASC,Ginko,8.1,8.8,9.9,11.3,False
+2024-03-27,Bol de salades et crudités asiatiques du buffet\nchoix de sauce maison\nSupplément avec menu / env. 220 grProvenance: Légumes suisse\n,Ginko,3.0,3.0,,3.0,False
+2024-03-27,"Dessert à la carte\n""Fait Maison"" ",Ginko,,,,3.5,False
+2024-03-27,Gyoza frit aux légumes \n20 gr / à la pièce,Ginko,,,,0.8,False
+2024-03-27,Rouleau de printemps aux légumes \n50 gr / à la pièce\nProvenance: suisse,Ginko,,,,2.5,False
+2024-03-27,Pad Thaï aux légumes croquants végétarien,Hopper,11.0,12.5,12.5,14.0,True
+2024-03-27,"Zozzo burger, frites artisanales et salade coslow",Hopper,13.8,14.9,14.9,16.9,False
+2024-03-27,Gnocchi alla Sorentina et Grana Padano végétarien,Hopper,8.1,9.9,11.0,13.6,True
+2024-03-27,Gratin de pâtes et brunoise de légumes,La Ruche,8.65,9.85,11.05,14.05,False
+2024-03-27,"Croissant de sils au jambon et fromage à raclette, salade verteProvenance: Suisse",La Ruche,8.15,9.45,11.05,13.05,False
+2024-03-27,"Boulettes de bœuf et agneau à l'italienne, couscous et légumes de saisonProvenance: Suisse",La Ruche,11.95,13.05,14.05,15.05,False
+2024-03-27,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-03-27,"Sandwich Chiche Taouk, \nPoulet au citron, sept épices libanaises et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2024-03-27,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-03-27,Porc haché sauté au gingembre,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-03-27,Légumes sautés et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-03-27,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-03-27,Bowl d'hiver,Montreux Jazz Café,,,,21.0,False
+2024-03-27,BB BURGER,Montreux Jazz Café,,,,23.0,False
+2024-03-27,Lana's Burger,Montreux Jazz Café,,,,23.0,False
+2024-03-27,Couscous royale aux légumes de saisons façon Native \nVégan vegan,Native-Restauration végétale,10.3,11.1,11.6,13.1,True
+2024-03-27,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-03-27,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-03-27,"""ZERO WASTE CONCEPT""\nTon Recycle rempli pour seulement 5.-\ntout notre buffet de produit frais au choix\nTOUS LES MERCREDI DE 14H30 à 15H00Provenance: suisse végétarien",Native-Restauration végétale,5.0,5.0,5.0,5.0,True
+2024-03-27,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Niki ,,,,8.0,False
+2024-03-27,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Niki ,,,,9.0,False
+2024-03-27,"Fais ta galette:\n(Saumon fumé, mozzarella, légumes grillés et roquettes)Provenance: MSC",Niki ,,,,9.5,False
+2024-03-27,"Emincé de boeuf au paprika\nriz long, cubes de légumesProvenance: Suisse",Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-03-27,Le Bao au pulled porc \nsalade de choux et soja\nsauce Sriracha,Ornithorynque,8.1,8.8,9.9,11.3,False
+2024-03-27,"Tarte à l'oignon, pomme golden\net camembert salade verte",Ornithorynque,9.5,10.5,11.0,12.0,False
+2024-03-27,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-03-27,Pâte du jour\nall'amatricianaProvenance: Suisse,Ornithorynque,5.9,7.0,8.0,9.0,False
+2024-03-27,"Lasagne ""Maison"" aux légumes gratiné au fromage Suisse végétarien",PUUR,14.0,14.0,14.0,14.0,True
+2024-03-27,"Butter chicken, riz basmati et petit poisProvenance: CH",PUUR,,,,16.9,False
+2024-03-27,"Wok de porc croustillant, nouilles de blé, julienne de légumes, coriandre et cacahuètesProvenance: CH",PUUR,,,,16.5,False
+2024-03-27,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-03-27,"Steak haché Black Angus, beurre maison, frites et salade du jourProvenance: CH",PUUR,,,,16.9,False
+2024-03-27,Gnocchi Alla carbonaraProvenance: CH,Piano ,8.6,9.9,11.0,13.5,False
+2024-03-27,"Filet de dorade gratiné, pomme de terre gratine et légumes braisésProvenance: Atlantique Nord Est \nMSC",Piano ,13.8,14.9,14.9,16.9,False
+2024-03-27,"Grillade Rouge:\nRumsteak de bœuf grillé, frites et salade café de ParisProvenance: CH",Piano ,15.9,15.9,15.9,15.9,False
+2024-03-27,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2024-03-27,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-03-27,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-03-27,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-03-27,Salade verte Fruits frais au choixGnocchi Alla carbonaraProvenance: CH,Piano ,9.7,12.1,13.2,15.2,False
+2024-03-27,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-03-27,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2024-03-27,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-03-27,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-03-27,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2024-03-27,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2024-03-27,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2024-03-27,Pizza champignons végétarien,Satellite,4.5,4.5,4.5,4.5,True
+2024-03-27,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2024-03-27,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-03-27,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
+2024-03-27,"Notre gamme de sandwichs emballés:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Zaha,,,,8.0,False
+2024-03-27,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Zaha,,,,10.0,False
+2024-03-27,Notre gamme de tacos maison:\nBoeuf haché\ntacos vegetarienProvenance: CHNotre gamme de tacos maison:\nBoeuf haché\ntacos vegetarienProvenance: CH,Zaha,,,,8.5,False
+2024-03-27,Notre gamme de sandwichs maison:\nBœuf haché crudités\njambon et gruyère Suisse\nVégé falafel\nPoulet curryProvenance: CH,Zaha,,,,8.5,False
