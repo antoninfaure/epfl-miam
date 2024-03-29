@@ -30135,3 +30135,45 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-03-28,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Zaha,,,,10.0,False
 2024-03-28,Notre gamme de tacos maison:\nBoeuf haché\ntacos vegetarienProvenance: CH,Zaha,,,,8.5,False
 2024-03-28,Notre gamme de sandwichs maison:\nBœuf haché crudités\njambon et gruyère Suisse\nVégé falafel\nPoulet curryProvenance: CH,Zaha,,,,8.5,False
+2024-03-29,"Dessert à la carte\n""Fait Maison"" ",Alpine,,,,3.5,False
+2024-03-29,"Supplément menu\nSalade du jourDessert à la carte\n""Fait Maison"" ",Alpine,1.0,1.0,1.0,1.0,False
+2024-03-29,Plaque de pizza aux légumes grillées\nou \nsalami\n végétarien,Arcadie,,,,10.5,True
+2024-03-29,pizza rouge qui piqueProvenance: Suisse végétarien,Cut Pizza - Food Truck Village,7.5,,,9.0,True
+2024-03-29,Pizza Margerita,Cut Pizza - Food Truck Village,7.5,,,9.0,False
+2024-03-29,Pizza fourée mozzarella et jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-03-29,Pizza fourée mozzarella et jambon,Cut Pizza - Food Truck Village,8.0,,,10.0,False
+2024-03-29,Pizza Sauce tomate & Burrata,Cut Pizza - Food Truck Village,,,,,False
+2024-03-29,Pâtes Matriciana,Cut Pizza - Food Truck Village,,,,,False
+2024-03-29,Pâtes Matriciana,Cut Pizza - Food Truck Village,,,,,False
+2024-03-29,Assortiments de sandwichs,Epicure,,,,,False
+2024-03-29,Assortiments\nde pièces sucrées,Epicure,,,,,False
+2024-03-29,Brochette kebab mixte\nSauce blanche\nPommes rôties aux herbes\nSalade du berger,Esplanade,12.5,13.0,13.5,14.5,False
+2024-03-29,Pizza\nMargherita,Esplanade,8.6,9.9,11.0,12.4,False
+2024-03-29,Filet de plie pané\nSauce tartare\nBrocoli à la vapeur\nBoulgour pourpreProvenance: Pays-Bas ,Esplanade,8.1,8.8,9.9,11.3,False
+2024-03-29,Focaccia jambon cru,Fleur de Pains - Food Truck,,,,10.5,False
+2024-03-29,Pâte spirales bolognaise,Fleur de Pains - Food Truck,,,,15.9,False
+2024-03-29,Pizza épinards,Fleur de Pains - Food Truck,,,,13.7,False
+2024-03-29,Pizza épinards,Fleur de Pains - Food Truck,,,,13.7,False
+2024-03-29,Salade taboulé ,Fleur de Pains - Food Truck,,,,18.9,False
+2024-03-29,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Giacometti,,,,9.0,False
+2024-03-29,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Giacometti,,,,8.0,False
+2024-03-29,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-03-29,"Chawarma poulet Sandwich, Emincé de poulet mariné rôti à la broche, salade, cornichons et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2024-03-29,Fermé,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-03-29,Fermé,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-03-29,Fermé,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-03-29,Fermé,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-03-29,"Buffet Végan et Végétarien Froid et chaud\nSalade, Légumineuses, Céréales, \nRacines, Légumes frais, Champignons\nProvenance: suisse végétarien",Native-Restauration végétale,2.5,2.5,2.8,3.2,True
+2024-03-29,"Dessert à la carte\n""Fait Maison"" ",Native-Restauration végétale,,,,3.5,False
+2024-03-29,"""ZERO WASTE CONCEPT""\nTon Recycle rempli pour seulement 5.-\ntout notre buffet de produit frais au choix\nTOUS LES VENDREDI DE 14H00 à 15H00Provenance: suisse végétarien",Native-Restauration végétale,5.0,5.0,5.0,5.0,True
+2024-03-29,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Niki ,,,,8.0,False
+2024-03-29,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Niki ,,,,9.0,False
+2024-03-29,"Fais ta galette:\n(Saumon fumé, mozzarella, légumes grillés et roquettes)Provenance: MSC",Niki ,,,,9.5,False
+2024-03-29,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-03-29,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-03-29,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-03-29,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-03-29,Pizza aubergines,Satellite,4.5,4.5,4.5,4.5,False
+2024-03-29,"Sandwichs (options végétariennes)\nChèvre miel noix, fromage frais crudités, focaccia tomate mozzarella, chèvre crudités, œuf mayo crudités, humus aubergines grillées, falafel, gruyère, tomate mozzarella basilic, inspiration Asie, thon crudités, thon œuf, saumon, focaccia jambon cru, viande séchée fromage, jambon beurre, jambon gruyère, salami.",Satellite,5.0,5.0,5.0,5.0,False
+2024-03-29,Kit étudiant\nSandwich + fruit + boisson\nou\nPizza + fruit + boisson,Satellite,7.0,7.0,7.0,7.0,False
+2024-03-29,"Viennoiseries\nCroissants au beurre, croissants aux amandes, pain au chocolat, pain au sucre, brioche aux pépites de chocolat, escargot aux raisins, taillé au grebon, brioche suisse, salée au sucre.",Satellite,,,,,True
