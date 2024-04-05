@@ -30345,3 +30345,51 @@ date,name,restaurant,etudiant,doctorant,campus,visiteur,vegetarian
 2024-04-04,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
 2024-04-04,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
 2024-04-04,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
+2024-04-05,Lasagne gratinée au bœuf\nsalade verteProvenance: Suisse,Arcadie,8.1,8.8,9.9,11.3,False
+2024-04-05,Plaque de pizza aux légumes grillées\nou \njambon blanc végétarien,Arcadie,,,,10.5,True
+2024-04-05,"L'Arcadie Italien Burger\nsteak de bœuf, roquette, \ntomates et mozzarella, pommes wedgesProvenance: Bœuf Suisse",Arcadie,12.5,13.5,14.5,15.5,False
+2024-04-05,Assortiments de sandwichs,Epicure,,,,,False
+2024-04-05,Assortiment de bowls,Epicure,,,,,False
+2024-04-05,Assortiments\nde pièces sucrées,Epicure,,,,,False
+2024-04-05,Filet de plie pané\nSauce mayonnaise à l'ail\nBrocoli à la vapeur\nBoulgour pourpreProvenance: Pays-Bas ,Esplanade,8.6,9.9,11.0,12.4,False
+2024-04-05,Veggi Pasta corner\nSauce au choix\nFromage râpé\nSalade du jourProvenance: Suisse,Esplanade,8.1,8.8,9.9,11.3,False
+2024-04-05,Focaccia jambon cru,Fleur de Pains - Food Truck,,,,10.5,False
+2024-04-05,Pâte spirales bolognaise,Fleur de Pains - Food Truck,,,,15.9,False
+2024-04-05,Pizza épinards,Fleur de Pains - Food Truck,,,,13.7,False
+2024-04-05,Salade taboulé ,Fleur de Pains - Food Truck,,,,18.9,False
+2024-04-05,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Giacometti,,,,9.0,False
+2024-04-05,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Giacometti,,,,8.0,False
+2024-04-05,"Burritos Mexicain au boeuf fait maison, frittes et salade",Hopper,13.8,14.9,14.9,16.9,False
+2024-04-05,"Nuggets végétarien, écrasé de pomme de terre et légumes végétarien",Hopper,8.1,9.9,11.0,13.6,True
+2024-04-05,"Sandwich Falafel, croquants composés d'un mélange pois chiches, épices cornichons et sauce sésame végétarien",Li Beirut - Food Truck,,,,7.5,True
+2024-04-05,"Chawarma poulet Sandwich, Emincé de poulet mariné rôti à la broche, salade, cornichons et sauce à l'ail",Li Beirut - Food Truck,,,,9.0,False
+2024-04-05,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,13.0,13.0,13.0,14.0,False
+2024-04-05,Emincé de porc à la sauce aigre-douce,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-04-05,Vermicelles sautées aux légumes et tofu,Manira Wokshop - Food Truck Village,,,,14.0,False
+2024-04-05,Emincé de poulet au curry paneng,Manira Wokshop - Food Truck Village,,,,8.5,False
+2024-04-05,"Notre gamme de sandwichs:\nAssortiment varié (Dinde fumée, tomate mozza...)Provenance: CH",Niki ,,,,8.0,False
+2024-04-05,"Notre gamme de salades:\n(Falafel, Pastrami, Italienne, Chicken Cesar...)Provenance: CH",Niki ,,,,9.0,False
+2024-04-05,"Fais ta galette:\n(Saumon fumé, mozzarella, légumes grillés et roquettes)Provenance: MSC",Niki ,,,,9.5,False
+2024-04-05,L'Orni fish burger\nbun's au maïs sauce raifort\nfish&chips de colin\ntomate et pommes cutsProvenance: Fao 67,Ornithorynque,12.5,13.5,14.5,15.5,False
+2024-04-05,"Dahl de lentilles corail et riz basmati,\nsamossa aux poulet,\nsauce piquante\nsauce yaourtProvenance: Suisse",Ornithorynque,9.5,10.5,11.0,12.0,False
+2024-04-05,Assortiments de salade \nau poids,Ornithorynque,2.3,2.5,2.5,2.5,False
+2024-04-05,Pâte du jour\nà la Napolitaine,Ornithorynque,5.9,7.0,8.0,9.0,False
+2024-04-05,"Cabillaud rôti à la Bordelaise, pommes de terre vapeur, chou-fleur et quartier de citronProvenance: MSC",PUUR,,,,15.9,False
+2024-04-05,Gratin de pâtes fraîches au quatre fromages végétarien,PUUR,14.0,14.0,14.0,14.0,True
+2024-04-05,Buffet du jour,PUUR,3.1,3.1,3.1,3.1,True
+2024-04-05,"Steak de bœuf, sauce vin rouge et oignons confits, pommes frites et saladeProvenance: CH",PUUR,,,,16.9,False
+2024-04-05,Risotto Radicchio Aceto Balsamico di Modena et lamelles de Grana végétarien,Piano ,8.6,9.9,11.0,13.5,True
+2024-04-05,"Cabillaud mouillée, pommes de terre a vapeur, carottes et petit poisProvenance: Atlantique Nord Est",Piano ,13.8,14.9,14.9,16.9,False
+2024-04-05,"Pizza Verdura\nTomates, mozzarella, légumes grillés et rucollaProvenance: CH",Piano ,,,,14.5,False
+2024-04-05,"Buffet chaud du moment:\nAssortiment de légumes, ravioles, viandes braisées, gratin...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-04-05,Gnocchi Alla Contadina végétarien,Piano ,7.0,8.8,9.9,11.3,True
+2024-04-05,"Pizza Marguerita\nTomate, mozzarella et basilic végétarien",Piano ,,,,12.0,True
+2024-04-05,"Buffet froid du moment:\nAssortiment de crudités, cuidités, féculent,pizzas, protéines...Provenance: CH",Piano ,2.9,2.9,2.9,2.9,False
+2024-04-05,Salade verte Fruits frais au choixRisotto Radicchio Aceto Balsamico di Modena et lamelles de Grana végétarien,Piano ,9.7,12.1,13.2,15.2,True
+2024-04-05,"Pizza chèvre miel\nTomate, mozzarella, chèvre, miel et rucolla végétarien",Piano ,,,,15.5,True
+2024-04-05,"Pizza aux 4 fromages\nTomate, mozzarella, chèvre, gorgonzola et grana padano végétarien",Piano ,,,,15.5,True
+2024-04-05,"Pizza Buffalina\nTomates, mozzarella, buffala et rucollaProvenance: CH végétarien",Piano ,,,,14.5,True
+2024-04-05,"Pizza Reine \nTomate, mozzarella, champignons et jambon blancProvenance: CH",Piano ,,,,14.5,False
+2024-04-05,"Pizza Norvégienne\nTomate, mozzarella, saumon, crème fraîche et olivesProvenance: MSC\nNorvège",Piano ,,,,15.5,False
+2024-04-05,"Pizza Chorizo\nTomate, mozzarella, poivrons et chorizoProvenance: CH",Piano ,,,,15.5,False
+2024-04-05,"Pizza Orientale\nTomate, mozzarella, poivrons et merguezProvenance: CH",Piano ,,,,15.5,False
